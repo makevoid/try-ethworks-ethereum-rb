@@ -1,3 +1,3 @@
 source "http://rubygems.org"
 
-gem 'ethereum-rb'
+gem 'ethereum.rb'
