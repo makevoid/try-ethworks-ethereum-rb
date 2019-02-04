@@ -1,5 +1,5 @@
 # ethworks-ethereum-rb example
-### usage
+## usage
 
 
 ### install deps
