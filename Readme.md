@@ -1,4 +1,5 @@
-# ruby-eth-rb example
+# ethworks-ethereum-rb example
+### usage
 
 
 ### install deps
