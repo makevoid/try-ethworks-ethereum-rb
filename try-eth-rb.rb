@@ -6,6 +6,7 @@ puts "new contract: #{address}"
 
 5.times do
   contract.transact.set "rand-#{rand 10}"
+
   value = contract.call.get
   puts "got value: #{value}"
 end
